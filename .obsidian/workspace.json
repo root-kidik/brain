@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "3c36f44530118870",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bd26c756a4647d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23ab68c307acaca1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db87518fd6387948",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a6079befa7c075b",
+        "type": "tabs",
+        "dimension": 72.98682284040996,
+        "children": [
+          {
+            "id": "c631762af550ef9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "23a07032403782e2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "276b92cc9632ab8f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "276b3a611cce99ae",
+        "type": "tabs",
+        "dimension": 27.013177159590047,
+        "children": [
+          {
+            "id": "7ba99d1f9bbc3d08",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "40100793a868fd24",
+    "type": "split",
+    "children": [
+      {
+        "id": "592ea9d13fb640c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82a8a693fd5c635a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "e6ae8b5eda08ed81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Комбинаторика.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Комбинаторика"
+            }
+          },
+          {
+            "id": "4683d87ef041d932",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "f316709be8c9035f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Комбинаторика.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Комбинаторика"
+            }
+          },
+          {
+            "id": "d9b0ca4db212b538",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false,
+      "obsidian-kanban:Создать новую доску": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "23ab68c307acaca1",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-07-27 20.18.17.excalidraw.md",
+    "Excalidraw/Комбинаторика.md",
+    "Excalidraw/Комбинаторика.svg",
+    "life/Неделя.md",
+    "life/Год.md",
+    "leetcode/array/228. Summary Range.md",
+    "leetcode/array/217. Contains Duplicate.md",
+    "leetcode/array/66. Plus One.md",
+    "Безымянная Kanban-доска.md",
+    "Untitled Kanban.md",
+    "life/Untitled.md",
+    "Excalidraw",
+    "leetcode/array/array.md",
+    "leetcode/readme.md",
+    "leetcode/array/1128. Number of Equivalent Domino Pairs.md",
+    "leetcode/array/1313. Decompress Run-Length Encoded List.md",
+    "leetcode/array/1287. Element Appearing More Than 25 In Sorted Array.md",
+    "1002.Find Common Characters.md",
+    "leetcode/array/1005. Maximize Sum Of Array After K Negations.md",
+    "leetcode/array/1002. Find Common Characters.md",
+    "Untitled.canvas",
+    "leetcode/array/999. Available Captures for Rook.md",
+    "life",
+    "leetcode/array/1550. Three Consecutive Odds.md",
+    "leetcode/array/976. Largest Perimeter Triangle.md",
+    "leetcode/array/495. Teemo Attacking.md",
+    "leetcode/string/string.md"
+  ]
+}
