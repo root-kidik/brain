@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "3976b7b781e17b00",
+        "id": "65482ca625689e80",
         "type": "tabs",
         "children": [
           {
-            "id": "2769bd56d1dfa8b6",
+            "id": "03cbd77488356204",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/ЛинАл.md"
+                "file": "Excalidraw/Генплан.md"
               },
               "icon": "excalidraw-icon",
-              "title": "ЛинАл"
+              "title": "Генплан"
+            }
+          },
+          {
+            "id": "9f116ab88b87d812",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Комбинаторика.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Комбинаторика"
             }
           }
         ]
@@ -197,40 +209,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2769bd56d1dfa8b6",
+  "active": "03cbd77488356204",
   "lastOpenFiles": [
+    "Excalidraw/ТеорВер.md",
+    "Pasted Image 20250803121945_535.png",
     "Excalidraw/Комбинаторика.md",
-    "Excalidraw/Дискретка.md",
     "Excalidraw/Генплан.md",
-    "Excalidraw/Leetcode.md",
+    "Pasted Image 20250803145646_089.png",
+    "Pasted Image 20250803144600_317.png",
+    "Excalidraw/МатАн.md",
     "Excalidraw/ЛинАл.md",
-    "Pasted Image 20250730232431_955.png",
-    "Pasted Image 20250730225223_575.png",
-    "Pasted Image 20250730224452_280.png",
-    "Pasted Image 20250730222825_169.png",
-    "Excalidraw/Без названия.md",
-    "leetcode/string/1768. Merge Strings Alternately.md",
+    "Excalidraw/Leetcode.md",
+    "Excalidraw/Алгоритмы.md",
+    "Excalidraw/Дискретка.md",
+    "Pasted Image 20250803122812_014.png",
+    "Pasted Image 20250803122323_429.png",
+    "life/Неделя.md",
     "README.md",
-    "Merge.md",
+    "Pasted Image 20250801153931_681.png",
+    "Без названия.canvas",
+    "Pasted Image 20250801153606_308.png",
+    "leetcode/string/1768. Merge Strings Alternately.md",
+    "Pasted Image 20250801141630_162.png",
+    "Pasted Image 20250801134336_507.png",
+    "leetcode/array/905. Sort Array By Parity.md",
+    "leetcode/array/1207. Unique Number of Occurrences.md",
+    "leetcode/array/1313. Decompress Run-Length Encoded List.md",
     "leetcode/array/array.md",
-    "leetcode/string/string.md",
-    "leetcode/string/409. Longest Palindrome.md",
+    "leetcode/array/1200. Minimum Absolute Difference.md",
     "leetcode/array/readme.md",
+    "life/Год.md",
+    "leetcode/string/string.md",
+    "Pasted Image 20250801141611_519.png",
+    "Excalidraw/Без названия.md",
+    "Merge.md",
+    "leetcode/string/409. Longest Palindrome.md",
     "Excalidraw/Drawing 2025-07-28 22.15.30.excalidraw.md",
     "Безымянная Kanban-доска.md",
-    "life/Неделя.md",
-    "life/Год.md",
-    "depositphotos_300302562-stock-illustration-algorithm-logo-glyph-vector-design(1).jpeg",
     "Excalidraw/Drawing 2025-07-27 20.18.17.excalidraw.md",
-    "Excalidraw/Комбинаторика.svg",
-    "leetcode/array/228. Summary Range.md",
-    "leetcode/array/217. Contains Duplicate.md",
-    "leetcode/array/66. Plus One.md",
-    "Untitled Kanban.md",
-    "life/Untitled.md",
     "Excalidraw",
-    "leetcode/array/1128. Number of Equivalent Domino Pairs.md",
-    "leetcode/array/1313. Decompress Run-Length Encoded List.md",
     "Untitled.canvas",
     "life"
   ]
