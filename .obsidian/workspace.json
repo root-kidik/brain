@@ -11,12 +11,14 @@
             "id": "03cbd77488356204",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Генплан.md"
+                "file": "leetcode/array/11. Container With Most Water.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Генплан"
+              "icon": "lucide-file",
+              "title": "11. Container With Most Water"
             }
           },
           {
@@ -31,7 +33,8 @@
               "title": "Комбинаторика"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,19 +212,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "03cbd77488356204",
+  "active": "9f116ab88b87d812",
   "lastOpenFiles": [
-    "Excalidraw/ТеорВер.md",
-    "Pasted Image 20250803121945_535.png",
-    "Excalidraw/Комбинаторика.md",
+    "Excalidraw/Дискретка.md",
     "Excalidraw/Генплан.md",
+    "Excalidraw/Комбинаторика.md",
+    "Excalidraw/ТеорВер.md",
+    "Excalidraw/Leetcode.md",
+    "leetcode/array/11. Container With Most Water.md",
+    "Excalidraw/Алгоритмы.md",
+    "leetcode/array/66. Plus One.md",
+    "leetcode/array/array.md",
+    "Pasted Image 20250803121945_535.png",
     "Pasted Image 20250803145646_089.png",
     "Pasted Image 20250803144600_317.png",
     "Excalidraw/МатАн.md",
     "Excalidraw/ЛинАл.md",
-    "Excalidraw/Leetcode.md",
-    "Excalidraw/Алгоритмы.md",
-    "Excalidraw/Дискретка.md",
     "Pasted Image 20250803122812_014.png",
     "Pasted Image 20250803122323_429.png",
     "life/Неделя.md",
@@ -235,7 +241,6 @@
     "leetcode/array/905. Sort Array By Parity.md",
     "leetcode/array/1207. Unique Number of Occurrences.md",
     "leetcode/array/1313. Decompress Run-Length Encoded List.md",
-    "leetcode/array/array.md",
     "leetcode/array/1200. Minimum Absolute Difference.md",
     "leetcode/array/readme.md",
     "life/Год.md",
@@ -246,7 +251,6 @@
     "leetcode/string/409. Longest Palindrome.md",
     "Excalidraw/Drawing 2025-07-28 22.15.30.excalidraw.md",
     "Безымянная Kanban-доска.md",
-    "Excalidraw/Drawing 2025-07-27 20.18.17.excalidraw.md",
     "Excalidraw",
     "Untitled.canvas",
     "life"
