@@ -4,33 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "65482ca625689e80",
+        "id": "3e8780d4e80a7374",
         "type": "tabs",
         "children": [
           {
-            "id": "03cbd77488356204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "leetcode/array/11. Container With Most Water.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11. Container With Most Water"
-            }
-          },
-          {
-            "id": "9f116ab88b87d812",
+            "id": "dfc3ef9b0488a093",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Комбинаторика.md"
+                "file": "Excalidraw/Leetcode.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Комбинаторика"
+              "title": "Leetcode"
+            }
+          },
+          {
+            "id": "120b758688d2a99e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-09-03 18.28.47.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-03 18.28.47.excalidraw"
             }
           }
         ],
@@ -67,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#math",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +73,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -201,6 +199,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Создать новую базу": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -212,45 +211,49 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9f116ab88b87d812",
+  "active": "120b758688d2a99e",
   "lastOpenFiles": [
-    "Excalidraw/Дискретка.md",
-    "Excalidraw/Генплан.md",
-    "Excalidraw/Комбинаторика.md",
-    "Excalidraw/ТеорВер.md",
+    "Excalidraw/Drawing 2025-09-03 18.28.47.excalidraw.md",
     "Excalidraw/Leetcode.md",
-    "leetcode/array/11. Container With Most Water.md",
     "Excalidraw/Алгоритмы.md",
-    "leetcode/array/66. Plus One.md",
-    "leetcode/array/array.md",
-    "Pasted Image 20250803121945_535.png",
-    "Pasted Image 20250803145646_089.png",
-    "Pasted Image 20250803144600_317.png",
-    "Excalidraw/МатАн.md",
-    "Excalidraw/ЛинАл.md",
-    "Pasted Image 20250803122812_014.png",
-    "Pasted Image 20250803122323_429.png",
+    "Excalidraw/Генплан.md",
+    "leetcode/array/31. Next Permutation.md",
+    "life/Год.md",
     "life/Неделя.md",
+    "leetcode/array/array.md",
+    "leetcode/array/16. 3Sum Closest.md",
+    "Pasted Image 20250903233346_912.png",
+    "Pasted Image 20250904000544_121.png",
+    "Pasted Image 20250903234357_807.png",
+    "Excalidraw/Дискретка.md",
+    "Excalidraw/МатАн.md",
+    "Excalidraw/ТеорВер.md",
+    "Excalidraw/Комбинаторика.md",
+    "Excalidraw/ЛинАл.md",
     "README.md",
-    "Pasted Image 20250801153931_681.png",
+    "Pasted Image 20250819222423_248.png",
+    "Без названия.base",
+    "Без названия 1.base",
+    "0,0,0.md",
+    "leetcode/array/15. 3Sum.md",
+    "Pasted Image 20250809160233_184.png",
+    "Pasted Image 20250816145519_310.png",
+    "Pasted Image 20250816143539_328.png",
+    "Pasted Image 20250816143148_462.png",
+    "Pasted Image 20250816142817_402.png",
+    "Pasted Image 20250812001655_371.png",
+    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "leetcode/array/11. Container With Most Water.md",
+    "leetcode/array/readme.md",
+    "leetcode/array/66. Plus One.md",
     "Без названия.canvas",
-    "Pasted Image 20250801153606_308.png",
     "leetcode/string/1768. Merge Strings Alternately.md",
-    "Pasted Image 20250801141630_162.png",
-    "Pasted Image 20250801134336_507.png",
     "leetcode/array/905. Sort Array By Parity.md",
     "leetcode/array/1207. Unique Number of Occurrences.md",
     "leetcode/array/1313. Decompress Run-Length Encoded List.md",
     "leetcode/array/1200. Minimum Absolute Difference.md",
-    "leetcode/array/readme.md",
-    "life/Год.md",
-    "leetcode/string/string.md",
-    "Pasted Image 20250801141611_519.png",
-    "Excalidraw/Без названия.md",
-    "Merge.md",
-    "leetcode/string/409. Longest Palindrome.md",
-    "Excalidraw/Drawing 2025-07-28 22.15.30.excalidraw.md",
-    "Безымянная Kanban-доска.md",
     "Excalidraw",
     "Untitled.canvas",
     "life"
